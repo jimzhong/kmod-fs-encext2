@@ -1,2 +1,2 @@
 # kmod-fs-encext2
-encrypted ext2 file system
+An encrypted ext2 file system for the OS course
