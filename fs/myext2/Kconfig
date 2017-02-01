@@ -1,0 +1,10 @@
+config MYEXT2_FS
+	tristate "My second extended fs support"
+	help
+	  Myext2 is an experimental file system for hard disks.
+
+	  To compile this file system support as a module, choose M here: the
+	  module will be called myext2.
+
+	  If unsure, say Y.
+

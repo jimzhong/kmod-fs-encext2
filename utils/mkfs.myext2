@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/sbin/mkfs.ext2 $1
+./change_MN $1
+
